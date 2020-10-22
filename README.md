@@ -1,23 +1,6 @@
 Python based command line utility
 ======================
 
-[Virtual Optical Serial Analyser (OSA)](http://ec2-3-134-85-47.us-east-2.compute.amazonaws.com) is a basic text command interface of legacy laboratory equipment. It is created using React and Flask framework. It provides basic controls to retrieve an OSA trace within specified limits and display the result on a graph.
-
-## Table of content
-
-- [Installation](#installation)
-    - [React](#react)
-    - [Flask](#flask)
-- [Features](#features)
-    - [Continous Feedback](#continous-feedback)
-    - [Zoom, Pan, Read Values](#zoom-pan-read-values-from-the-chart)
-    - [Plot Persistence](#plot-persistence)
-    - [Command Line Interface](#command-line-interface)
-    - [Communication Log](#communication-log)
-- [REST Endpoints](#rest-endpoints)
-- [Acknowledgements](#acknowledgements)
-- [Links](#links)
-
 ## Installation
 
 Clone this repository :
