@@ -6,7 +6,7 @@ Python based command line utility
 Clone this repository :
 `git clone https://github.com/tejasvivig29/analyzere_python_commandlineutility.git`
 
-Make sure you have these installed :
+Make sure you have Python installed :
 
 - **Python** - Python 3.6.9 or newer
 
